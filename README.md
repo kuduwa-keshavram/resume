@@ -1,4 +1,3 @@
-
 # Keshavram Kuduwa
 
 ## Objective
@@ -20,6 +19,26 @@ My passion for technology and continuous learning drives me to stay abreast of t
 
 I am eager to leverage my technical expertise and problem-solving abilities to make a significant impact in the world of software development.
 
-## Contact
+## Contact Me
 
-To reach out, email <kuduwa.keshavram@gmail.com> or call my phone number **+91 727 678 7724**.
+- **Address:** Indraprabha, Vikas Nagar, Dehu Road, Pune - 412101
+- **Phone:** +91 727 678 7724
+- **Email:** <kuduwa.keshavram@gmail.com>
+- **DOB:** 5th October 1996
+
+## Social Links
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/keshavramk/)
+- **StackOverflow:** [StackOverflow Profile](https://stackoverflow.com/users/7605967/keshavram-kuduwa)
+
+## Language Proficiencies
+
+- **English:** Full Professional Proficiency
+- **Hindi:** Native or bilingual Proficiency
+- **Marathi:** Native or bilingual Proficiency
+- **Sourashtra:** Native or bilingual Proficiency
+- **Tamil:** Limited Working Proficiency
+
+## LinkedIn Recommendations
+
+You can view my LinkedIn recommendations [here](https://www.linkedin.com/in/keshavramk/).
